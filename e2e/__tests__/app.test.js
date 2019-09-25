@@ -6,7 +6,7 @@ describe('core app api', () => {
       .get('/hello')
       .expect(200)
       .then(res => {
-        expect(res.text).toBe('hello express');
+        expect(res.text).toBe('hello world');
       });
   });
 

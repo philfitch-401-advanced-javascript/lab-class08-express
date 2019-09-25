@@ -1,7 +1,7 @@
 {
   "name": "express-reference-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Project Name",
   "main": "server.js",
   "directories": {
     "lib": "lib"
@@ -33,6 +33,16 @@
   },
   "jest": {
     "testEnvironment": "node",
-    "setupFilesAfterEnv": ["<rootDir>/e2e/setup.js"]
-  }
+    "setupFilesAfterEnv": [
+      "<rootDir>/e2e/setup.js"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philfitch-401-advanced-javascript/lab-class08-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/philfitch-401-advanced-javascript/lab-class08-express/issues"
+  },
+  "homepage": "https://github.com/philfitch-401-advanced-javascript/lab-class08-express#readme"
 }
