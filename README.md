@@ -1,13 +1,13 @@
-# LAB - 
+# LAB - class 08
 
-## Project Name
+## Express Server
 
-### Author: Student/Group Name
+### Author: Phil Fitch
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/philfitch-401-advanced-javascript/lab-class08-express/pull/1)
+* [travis](https://travis-ci.com/philfitch-401-advanced-javascript/lab-class08-express/builds/129186918)
+* [back-end](https://expresslab.herokuapp.com/hello) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
@@ -18,7 +18,7 @@
 ### Setup
 #### `.env` requirements
 * `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `MONGODB_URI` mongodb://localhost:27017/trees
 
 **or, include an `.env.example`**
 
